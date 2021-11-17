@@ -4,7 +4,6 @@
 
 Apuntes sobre sobre Git y GitHub.
 
----
 
 ## Tabla de contenidos.
 
