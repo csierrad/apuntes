@@ -7,7 +7,7 @@ Apuntes sobre sobre Git y GitHub.
 
 ## Tabla de contenidos.
 
-- [Instalación y configuración](https://www.notion.so/Instalaci-n-y-configuraci-n-e1bc85d05d814c7ab788c28d870903c8)
+- [Instalación y configuración](git_install.md)
     - Descaga de Git
     - Configuración inicial
 - [Trabajando de forma local](https://www.notion.so/Trabajando-de-forma-local-3b8ef1dfe1a746a3a9aedc1488c9b261)
