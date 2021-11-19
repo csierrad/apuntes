@@ -17,7 +17,7 @@ Apuntes sobre sobre Git y GitHub.
         - Fusionar ramas
         - Eliminar ramas
     - Ignorar archivos
-- [Trabajando de forma remota](https://www.notion.so/Trabajando-de-forma-remota-9da407047a1e4d86ae3f6922119a7098)
+- [Trabajando de forma remota](git_remote.md)
     - Ceando un repositorio remoto en GitHub
     - Clonando un repositorio remoto ya creado
     - Enlazar nuestro repositorio local con uno remoto
