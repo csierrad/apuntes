@@ -111,7 +111,8 @@ En el caso de que queramos deshacer el último commit podemos hacerlo de dos for
     
     ```bash
     git reset --soft HEAD~1
-    #El parámetro soft hace que los cambios guardados en el ultimo commit, en lugar de eliminarlos, los guarde como cambios locales.
+    #El parámetro soft hace que los cambios guardados en el último commit, en lugar de eliminarlos,
+    #los guarde como cambios locales.
     #El parámetro HEAD~1 indica que queremos volver al commit anterior al que nos encontramos actualmente.
     ```
     
