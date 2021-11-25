@@ -4,6 +4,8 @@
 
 Apuntes sobre sobre Git y GitHub.
 
+Nota: Todos los comandos que se realizan en estos apuntes sirven para un entorno de desarrollo Linux, alguno puede variar si se realizan en otro entorno distinto.
+
 
 ## Tabla de contenidos.
 
