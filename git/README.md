@@ -1,4 +1,4 @@
-# README
+# GIT y Github
 
 ## Introducción.
 
