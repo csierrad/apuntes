@@ -5,4 +5,3 @@ Todos los apuntes a excepción de los indicados, han sido redactados por mí y p
 - [C](./c)
 - [Git y Github](./git)
 - [Otros](./otros)
-a el año que viene

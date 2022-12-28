@@ -1,4 +1,4 @@
-> El documento markdown_cheat_sheet proviene del el siguiente [link](https://www.markdownguide.org/cheat-sheet/)
+El documento markdown_cheat_sheet.md proviene del el siguiente [link](https://www.markdownguide.org/cheat-sheet/)
 
 ## Índice
 - [Tmux cheatsheet](tmux_cheatsheet)
