@@ -25,7 +25,7 @@ Pueden ser:
 
 
 ## Floating-Point Types.
-Son un conjunto de data types que no se comportan de la misma manera que los indicados anteriormente. Mientras que en los tipos enteros se guarda el valor que tiene la variable tal cual (en binario), los tipos que se representan mediante coma flotante se comportan distinto -> [Explicación de la coma flotante](./Representacion_de_decimales_con_coma_flotante)
+Son un conjunto de data types que no se comportan de la misma manera que los indicados anteriormente. Mientras que en los tipos enteros se guarda el valor que tiene la variable tal cual (en binario), los tipos que se representan mediante coma flotante se comportan distinto -> [Explicación de la coma flotante](representacion_de_decimales_con_coma_flotante.md)
 
 - float (4 bytes) -> 
 	- valores: 1.2E-38 to 3.4E+38
